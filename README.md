@@ -74,3 +74,4 @@ for the containers, i started out by sketching the space that i would use for co
 it also gave me around 10 mm by 14 mm of space to place the conning tower (i searched up what the tower on a container ship is called, and i thought that conning towers only applied to submarines but apparently not)
 i also wanted to make the amount of containers varying on each column, so i would have to manually make each column or at least extrude multiple times.
 **session end**
+i kinda wanted to see what the cargo ship looked like in a slicer, so i tried to put it into anycubic slicer and it said that the weight was 0 and that the object had been removed from the model. i had no idea why this was happening, maybe i wasn't exporting it correctly, so i looked around and realised that i could've exported it in .stl instead of a step file. maybe it was because i selected a face and thought that it was like onshape, where it would just select the entire part for exporting.
