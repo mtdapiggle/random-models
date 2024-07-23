@@ -23,3 +23,4 @@ i zoomed out and saw this.
 i guess this was a byproduct of making the guiding line for the bow, so i had to make a guiding line for the back end of the ship.
 **session end**
 (also hakkuun broke right after the session ended) (when i say broke, it got stuck at 15 minutes left and didn't go down anymore D:)
+![image](https://github.com/user-attachments/assets/e3c10ef4-b1c0-427e-a863-14f895dd0030)
