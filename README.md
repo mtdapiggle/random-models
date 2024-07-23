@@ -46,3 +46,31 @@ i extruded the rectangle out, but realised that i couldn't add the edges of the 
 i looked for a way to make a new plane so the rectangle wouldn't be visible in the end. 
 i made a new plane through the construct tab, and i had to delete the extrude which also deleted the loft at the same time
 **session end**
+
+# session 3:
+i sketched onto the new plane 2 lines to be used as rails, but it didn't work when i tried to use loft.
+![image](https://github.com/user-attachments/assets/8ed4d0a7-b7c6-4ed5-8adf-c14916e32df5)
+i had no idea how to fix it, so i looked back to the old solution and wondered if i could use more lines to define the path of the loft.
+then i had another idea, what if i separated the part where it has a curve and the part where it's flat, so then the rail wouldn't impact on the other part and then i could simply just join them together.
+![image](https://github.com/user-attachments/assets/bbccaf16-8600-4cf2-96b1-ca367a18a726)
+the first part was a bit wacky, so i decided that instead of using loft to connect the 2 parts, i would have to use extrude instead.
+i attempted to use loft to connect the bottom part of the ship to the top part, but it didn't work. 
+![image](https://github.com/user-attachments/assets/6f686440-869f-4045-8e55-3fabe5a463c7)
+i thought that maybe it was because the curve from the first part was intefering, so i cut that part out by using extrude and the cut operation. 
+![image](https://github.com/user-attachments/assets/8b54c4fb-19dd-46b7-8fbb-98cc7d790285)
+yippee
+i also felt that it was kinda tall now, considering i haven't even added any containers or the tower where the captain controls everything, so i decided to make it shorter.
+![image](https://github.com/user-attachments/assets/5579cfe8-9d21-4e34-b8a9-768807a02bbe)
+that's not good.
+i realised that it must've been from the extrude and cut operation that i did earlier, since i forgot to change the height of that after making it shorter.
+![image](https://github.com/user-attachments/assets/47fb4244-71dd-4906-b38f-e0d764c4084b)
+epic.
+i wanted to add a fillet so i went back to sketch 1 and tried to add a fillet
+![image](https://github.com/user-attachments/assets/d9279a29-78aa-4b7e-a159-142dcffc0985)
+honestly it might not be what i want (it's definitely not what i want), i couldn't find a way to get this to work, so i tried to use the 3d fillet, the 3d fillet was a bit annoying, since i had to do it one by one until i realised that you can shift click to select multiple edges at once. i filleted all of the edges that i could/the edges that i wanted to fillet.
+![image](https://github.com/user-attachments/assets/51e29d3a-384b-4656-832c-47e91dfdcd54)
+for the containers, i started out by sketching the space that i would use for containers.
+![image](https://github.com/user-attachments/assets/3bdf7995-0073-4bc5-a88a-4243d43ed03e)
+it also gave me around 10 mm by 14 mm of space to place the conning tower (i searched up what the tower on a container ship is called, and i thought that conning towers only applied to submarines but apparently not)
+i also wanted to make the amount of containers varying on each column, so i would have to manually make each column or at least extrude multiple times.
+**session end**
