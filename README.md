@@ -75,3 +75,17 @@ it also gave me around 10 mm by 14 mm of space to place the conning tower (i sea
 i also wanted to make the amount of containers varying on each column, so i would have to manually make each column or at least extrude multiple times.
 **session end**
 i kinda wanted to see what the cargo ship looked like in a slicer, so i tried to put it into anycubic slicer and it said that the weight was 0 and that the object had been removed from the model. i had no idea why this was happening, maybe i wasn't exporting it correctly, so i looked around and realised that i could've exported it in .stl instead of a step file. maybe it was because i selected a face and thought that it was like onshape, where it would just select the entire part for exporting.
+
+# session 4:
+i made the container to be 1mm by 2.5mm, and used a rectangular pattern to make the containers. one thing that i do like about fusion 360's rectangular pattern is that you only specify the end point of the pattern and then input how many instances you want, compared to onshape's linear patterning, where you specify the distance between each instance and you have to calculate how much space you have between the first instance and the second to make it fit.
+for example:
+![image](https://github.com/user-attachments/assets/708d637d-4de3-480d-bb0a-5368e6af5394)
+i spent some time playing around with the amount of containers that i wanted to put and did some calculating to see the gap between each instances (although yeah i did say that calculating distance between the first and second instance is the downside of onshape and i am calculating the distance between each instance but uh... i just kinda like it)
+one thing that was kinda emphasised to me about cadding is scale, it looks big in cad but could be really small in real life, which is why i always keep a ruler next to me just to refer to real life measurements. i originally wanted to have 10-11 containers per row, but then i realised that the gap would be absolutely tiny between each container.
+![image](https://github.com/user-attachments/assets/20a533e4-32d4-41fa-96ba-dcd576225723)
+i made it 10 by 8, but i kinda realised that i wanted it to be 10 by 7 but i didn't know how to change the amount. onshape has the amount clearly shown whilst fusion 360 didn't really have it displayed anywhere. i had to click the rectangular pattern symbol on the sketch to change it. then i realised that the containers were too small in width, since they were literally smaller in width than the distance between each container. then i realised that i had to change a bunch of different dimensions so that the containers could be actually seeable. then i realised that the ship is small. 
+i wanted a few more containers so i added 3 at the front. but then i realised that it was kinda too much and even then, i wanted to reduce the amount of containers again.
+i spent a lot of this time trying to decide how many containers i wanted without making it look too tall. i also wanted to make the containers look a bit chaotic with the height of each column.
+![image](https://github.com/user-attachments/assets/9c5cf26f-3bfa-4684-995d-e25101b97b58)
+i like this sort of chaotic but orderly feel of the containers, they're all in strict rows and columns but the height of each column feels random and chaotic.
+i also started work on the conning tower or bridge, i've got the rough shape down and going to add some small details like windows and stuff like that. 
