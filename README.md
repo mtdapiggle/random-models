@@ -89,3 +89,19 @@ i spent a lot of this time trying to decide how many containers i wanted without
 ![image](https://github.com/user-attachments/assets/9c5cf26f-3bfa-4684-995d-e25101b97b58)
 i like this sort of chaotic but orderly feel of the containers, they're all in strict rows and columns but the height of each column feels random and chaotic.
 i also started work on the conning tower or bridge, i've got the rough shape down and going to add some small details like windows and stuff like that. 
+
+# session 5:
+at the end of each session (from session 4) i check the .stl file in a slicer and i kinda realised that the ship was too tall (yeah i know that i've changed the height like 5 different times, but this time, SURELY it'll stay at 15mmm tall. what i realised about the height when looking at pictures of container ships is that the height of the containers usually are taller than the height of the hull, so it'll stay at 15 mm tall) 
+i started by making the structural ribs on the side of the bridge/conning tower
+![image](https://github.com/user-attachments/assets/6f41d493-3bdb-4ca1-8dcb-d0c92550c7ad)
+ribs highlighted in red
+![image](https://github.com/user-attachments/assets/1d912906-e350-438d-96b7-d286115df331)
+then i attempted to use draft to make the bridge look a bit better
+![image](https://github.com/user-attachments/assets/7a40608c-a12a-4ef2-8f7b-e7a1ddd07395)
+but whenever i tried to select the faces, it'll end up really weird and selecting a bunch of other faces that i don't wnat to select, so i had to find another way.
+![image](https://github.com/user-attachments/assets/e11d88a0-4ee2-4038-87c8-37d30bed3f35)
+i just sketched the cross-section and extruded it because i didn't want to deal with any other weird things that could happen.
+then i added some cylinders and spheres on the top of the bridge, this was one of the hardest things to do, since the points were being really wacky and not going in places where i wanted them to go.
+the finished product:
+![image](https://github.com/user-attachments/assets/3c474444-ae64-4f2a-bfc4-4ebfefa58c94)
+it was only after this, at 11 pm (way past my bedtime) that i realised i hadn't done /hack and this entire session is pretty much kinda voided, so i'll submit this the day after somehow, some way.
