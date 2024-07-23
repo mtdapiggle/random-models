@@ -24,3 +24,25 @@ i guess this was a byproduct of making the guiding line for the bow, so i had to
 **session end**
 (also hakkuun broke right after the session ended) (when i say broke, it got stuck at 15 minutes left and didn't go down anymore D:)
 ![image](https://github.com/user-attachments/assets/e3c10ef4-b1c0-427e-a863-14f895dd0030)
+# session 2:
+i made a guiding  line for the back end, it didn't really work. 
+![image](https://github.com/user-attachments/assets/e51b0d0b-b797-4d7b-9e0c-ba9776b48037)
+i was confused on why it didn't work and i wondered if i made an arc that went in the opposite direction, would it make it flat? i kinda had to try because i had no other option.
+![image](https://github.com/user-attachments/assets/c23e73ea-be78-4425-a654-65b5880ffd48)
+yeah it kinda worked, it'd be really hard for me to make it completely flat but this was close enough and i was happy with it.
+the next thing i wanted to do was add on some containers onto the top of the ship
+i was about to start sketching on the top, but i saw this.
+![image](https://github.com/user-attachments/assets/1e5c6d8d-b7ca-47eb-bd7f-d928f230f033)
+well.. not much i can do. i wasn't really sure how to fix this, and i didn't like how it looked this way, so i wondered if i extruded out a line and used it as a guide rail, would it work??
+the loft broke when i made the rectangle that i was about to extrude, but that wasn't my current problem.
+for some reason the rectangle/the entire sketch didn't show up when i tried to extrude it
+![image](https://github.com/user-attachments/assets/45f4e803-e7a9-4ee5-b992-118a2d5a6c64)
+where sketch ???
+the sketch shows up when i edit it 
+![image](https://github.com/user-attachments/assets/ec1e1753-fd9e-475f-ad62-900eb9bd5dc8)
+i had to search up why it wasn't visible, and it was because the sketch was set on non visible. i have no idea how that happened, but it did
+but then for some reason when i tried to extrude it, nothing happened? i right clicked on the sketch and realised that i had to show the profile of the sketch. i love fusion 360.
+i extruded the rectangle out, but realised that i couldn't add the edges of the rectangles as guides, although it probably wouldn't have ended well. also, unlike onshape whenever you set the extrude setting to new part, it makes an entirely separate part. in fusion 360 it makes a new body? which seems to just merge it from what i can see, although there is a join setting, so idk what it does.
+i looked for a way to make a new plane so the rectangle wouldn't be visible in the end. 
+i made a new plane through the construct tab, and i had to delete the extrude which also deleted the loft at the same time
+**session end**
