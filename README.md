@@ -22,3 +22,4 @@ i zoomed out and saw this.
 ![image](https://github.com/user-attachments/assets/5d13095b-7a73-4974-a92b-9dd68ba4503a)
 i guess this was a byproduct of making the guiding line for the bow, so i had to make a guiding line for the back end of the ship.
 **session end**
+(also hakkuun broke right after the session ended)
