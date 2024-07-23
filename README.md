@@ -105,3 +105,5 @@ then i added some cylinders and spheres on the top of the bridge, this was one o
 the finished product:
 ![image](https://github.com/user-attachments/assets/3c474444-ae64-4f2a-bfc4-4ebfefa58c94)
 it was only after this, at 11 pm (way past my bedtime) that i realised i hadn't done /hack and this entire session is pretty much kinda voided, so i'll submit this the day after somehow, some way.
+**session end**
+some extra comments, i did the windows and stuff and filleted a bunch of edges.
