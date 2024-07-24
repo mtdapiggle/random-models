@@ -152,3 +152,19 @@ i also made the front line to not be symmetrical to make sure it'd work. then wh
 i made it 20mm and it looks much better now
 ![image](https://github.com/user-attachments/assets/6a1b3691-62a5-42fe-81b9-ec91ab917d7d)
 after tweaking some dimensions, it looks fine to me. although i checked the distance between the carrier deck and the hull and realised that it was still too low, i wanted around 7-8 mm of space, but i can only get around 4 mm without it becoming weird. this was a major problem and i couldn't move ahead without fixing it, and i really am getting bogged down, with no idea how on how to fix it. it also doesn't help that the overhang needs to be the same on both sides. then i realised i made a big mistake. i checked the wikipedia page of the USS Gerald R Ford, and found out that the width of the hull is only 1/8th of the length, so it only needed to be around 10 mm. AHKFLKJFJLJKJGAHLG;HLGLJJAGJ;LKGAJLKGAJJ;LKG;LKJKAJ;LGKJLKJ;LOIJ[QOIQIOUQPOIUTPIUOTUYP 
+
+# session 4:
+i tried to get in some small details like this:
+![image](https://github.com/user-attachments/assets/c393fc50-12e0-4953-8927-ccf3ac536f1d)
+although, i should probably get started on the hull of the ship. 
+i had some problems with guide rails where they didn't show up at all, and i had to look into the folders to make them visible (even when i configured them to be visible)
+![image](https://github.com/user-attachments/assets/8185fbc8-3186-454a-945b-b030de6121e8)
+it also said something about not liking profile edges being nearly coincident, although when i was doing the container ship, some of the edges were coincident and it was fine ???
+it was fine without the guide rail, but with the guide rail it broke. i thought it could be somehthing with the guide rail not being coincident with some of the edges of the top and bottom profile, but i had used the coincident constraint on them already. 
+in the end, i just decided to cut out the curve, i have no idea how to fix it. but, something pulled me back (i wanted it to be perfect), so i thought that it could be that the gap between the two profiles is too little. 
+![image](https://github.com/user-attachments/assets/f4940b7e-b749-433f-a826-016c9b83962c)
+i probably needed to expand the distance (arrows in red) so that it would work. i expanded the distance to how far i was willing to expand it, and...
+![image](https://github.com/user-attachments/assets/815f9fa1-676a-4b4e-bb31-db60fe44d0ff)
+it didn't work. yippee. 
+![image](https://github.com/user-attachments/assets/eff51b87-78cf-48c9-b329-38f86907b2c7)
+it's alright, but something just feels wrong about it, i'm not sure, but i probably need to make it even lower and add some more things on the sides so that it doesn't look like just a loft.
