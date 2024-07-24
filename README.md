@@ -103,7 +103,27 @@ but whenever i tried to select the faces, it'll end up really weird and selectin
 i just sketched the cross-section and extruded it because i didn't want to deal with any other weird things that could happen.
 then i added some cylinders and spheres on the top of the bridge, this was one of the hardest things to do, since the points were being really wacky and not going in places where i wanted them to go.
 the finished product:
+
 ![image](https://github.com/user-attachments/assets/3c474444-ae64-4f2a-bfc4-4ebfefa58c94)
 it was only after this, at 11 pm (way past my bedtime) that i realised i hadn't done /hack and this entire session is pretty much kinda voided, so i'll submit this the day after somehow, some way.
 **session end**
 some extra comments, i did the windows and stuff and filleted a bunch of edges.
+
+# making an aircraft carrier
+at the start of the session, i copied the container ship into a new file so i didn't have to make an entirely new hull. for some reason it didn't show up for like 2 minutes after i copied it. i tried to open it but it said that i had to update fusion 360 because i had used a different computer to do the original container ship, which had updated to the newest version of fusion 360. i also jarred 2 of my fingers on my left hand, which although isn't my dominant hand, it's harder for me to type fast/hit keybinds for things. the update bar is currently stuck at 98%. and it finally finished. 
+![image](https://github.com/user-attachments/assets/fe2b1904-6121-42ab-8ca8-bbc7e6e69901)
+i attempted to extend the size of the hull, which didn't end well, not only did the guiding lines/rails at the back broke, but the bottom of the ship broke. really badly.
+![image](https://github.com/user-attachments/assets/65170204-f662-4eae-a56c-3e4e6b7d0032)
+i tried to click the cube to go back to the middle after deleting all of the messed up stuff, but it didn't work so i had to search it up. 
+now i had some big problems, the entire sketch was now undefined and things were being wonky. it probably would've been better to just make a new hull. 
+![image](https://github.com/user-attachments/assets/2a973eaf-ddbf-4eb6-b64e-a2a3b9e101f8)
+i also had to fix the front bow of the ship and it wasn't entirely fun. 
+![image](https://github.com/user-attachments/assets/c6f4f2b0-a817-4320-a645-5f24bee463ac)
+the front bow is slowly making me lose braincells, so i decided to just make a new hull entirely, even though i copied the hull just to save some time, it probably would've been better to just make a new hull. 
+whilst trying to lock down the point of the spline, i found out that you can use the fix/unfix tool to lock the position of the point. this is another upside of fusion 360, which also comes from the fact that fusion 360 uses a grid and allows you to lock points on the grid.
+![image](https://github.com/user-attachments/assets/f6d28157-c1d2-44f2-a74a-31a2dde14d84)
+i looked at my reference image and realised that the front bow isn't really accurate, so i had to do it again. i also felt like that the aircraft carrier would be too short and even too thin, so i extended the hull again (and hoped for nothing weird happening.)
+![image](https://github.com/user-attachments/assets/ff7c86a1-38d3-437e-b57c-29a90b8f81fb)
+i was confused on what went wrong, then i noticed that the line on the left was green, meaning that i had used the fix tool on it. so i had to unfix it.
+![image](https://github.com/user-attachments/assets/83aaa069-e61d-4fde-8110-bc53ed0d3a2f)
+well that's not good.
