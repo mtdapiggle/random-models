@@ -143,3 +143,12 @@ when i was looking at a top down view of the carrier deck, i kinda realised that
 i made a start on the carrier deck and even started measuring the picture with a ruler to get a ratio of the length of the sides.
 ![image](https://github.com/user-attachments/assets/50cae0a2-1fc3-4acc-972d-dff5efffdd06)
 there was a major problem, the lines highlighted in red are meant to be the same line, and in my sketch, the hull would be showing if i were to extrude it out from this point. i probably would have to somehow make the hull thinner.
+
+# session 3:
+i decided that i shouldn't make the hull thinner, as it's already kinda the perfect size, so i decided to scale up each side/line by 1 mm. 
+![image](https://github.com/user-attachments/assets/57899852-fcbb-4dca-99bc-99d1ff018750)
+i also made the front line to not be symmetrical to make sure it'd work. then when i was watching a video of the USS Gerald R Ford, i realised that there  is a signifcant overhang from the carrier deck, and that i needed to make the hull thinner to accomodate the carrier deck. 
+![image](https://github.com/user-attachments/assets/117292f5-b785-4b4b-a3cb-dba481200dc0)
+i made it 20mm and it looks much better now
+![image](https://github.com/user-attachments/assets/6a1b3691-62a5-42fe-81b9-ec91ab917d7d)
+after tweaking some dimensions, it looks fine to me. although i checked the distance between the carrier deck and the hull and realised that it was still too low, i wanted around 7-8 mm of space, but i can only get around 4 mm without it becoming weird. this was a major problem and i couldn't move ahead without fixing it, and i really am getting bogged down, with no idea how on how to fix it. it also doesn't help that the overhang needs to be the same on both sides. then i realised i made a big mistake. i checked the wikipedia page of the USS Gerald R Ford, and found out that the width of the hull is only 1/8th of the length, so it only needed to be around 10 mm. AHKFLKJFJLJKJGAHLG;HLGLJJAGJ;LKGAJLKGAJJ;LKG;LKJKAJ;LGKJLKJ;LOIJ[QOIQIOUQPOIUTPIUOTUYP 
