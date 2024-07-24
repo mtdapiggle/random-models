@@ -110,6 +110,7 @@ it was only after this, at 11 pm (way past my bedtime) that i realised i hadn't 
 some extra comments, i did the windows and stuff and filleted a bunch of edges.
 
 # making an aircraft carrier
+# session 1
 at the start of the session, i copied the container ship into a new file so i didn't have to make an entirely new hull. for some reason it didn't show up for like 2 minutes after i copied it. i tried to open it but it said that i had to update fusion 360 because i had used a different computer to do the original container ship, which had updated to the newest version of fusion 360. i also jarred 2 of my fingers on my left hand, which although isn't my dominant hand, it's harder for me to type fast/hit keybinds for things. the update bar is currently stuck at 98%. and it finally finished. 
 ![image](https://github.com/user-attachments/assets/fe2b1904-6121-42ab-8ca8-bbc7e6e69901)
 i attempted to extend the size of the hull, which didn't end well, not only did the guiding lines/rails at the back broke, but the bottom of the ship broke. really badly.
@@ -127,3 +128,18 @@ i looked at my reference image and realised that the front bow isn't really accu
 i was confused on what went wrong, then i noticed that the line on the left was green, meaning that i had used the fix tool on it. so i had to unfix it.
 ![image](https://github.com/user-attachments/assets/83aaa069-e61d-4fde-8110-bc53ed0d3a2f)
 well that's not good.
+
+# session 2
+the hardest bit is trying to model the back, since there are rarely any pictures of the back of aircraft carriers, which is kinda fair since aircraft carriers look better from the front.
+![image](https://github.com/user-attachments/assets/c0dc7000-8df8-4dba-8ea5-be241029d88f)
+i found this image which seemed to just be a render of the USS Gerald R Ford, not a real picture, and i think the render is accurate, but i wanted a picture. 
+i eventually found a video and some more resources, and i got started.
+![image](https://github.com/user-attachments/assets/3d0fcf61-9f89-4aa0-9bf0-724d8e2b1d67)
+i was able to finish the back after checking the reference images and adjusting some things.
+i also realised that i needed to model the carrier deck and use some loft shenanigans to somehow connect it all up. another big hurdle i'd have to overcome is this thing.
+![image](https://github.com/user-attachments/assets/67e38445-1ace-40af-b05e-d6be04344419)
+how.
+when i was looking at a top down view of the carrier deck, i kinda realised that i made the bow wrong again. hopefully i don't need to remake it again. 
+i made a start on the carrier deck and even started measuring the picture with a ruler to get a ratio of the length of the sides.
+![image](https://github.com/user-attachments/assets/50cae0a2-1fc3-4acc-972d-dff5efffdd06)
+there was a major problem, the lines highlighted in red are meant to be the same line, and in my sketch, the hull would be showing if i were to extrude it out from this point. i probably would have to somehow make the hull thinner.
