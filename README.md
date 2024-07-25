@@ -1,4 +1,4 @@
-# random-models
+![image](https://github.com/user-attachments/assets/aafa2f13-3995-4598-95a8-e3c47ed472c6)# random-models
 # session 1:
 so i just found out that by putting a hashtag in front of some text, it makes it larger and bold. in this repositry i kinda wanted to make some small models of stuff that you can put on your desk for fun. or maybe paper weights uh ya.
 i also did this in fusion 360 because i heard that fusion 360 is used by a lot of people and is popular, because this is my first time going into fusion 360, i'll leave my view on fusion 360 and see if i like it 
@@ -168,3 +168,32 @@ i probably needed to expand the distance (arrows in red) so that it would work. 
 it didn't work. yippee. 
 ![image](https://github.com/user-attachments/assets/eff51b87-78cf-48c9-b329-38f86907b2c7)
 it's alright, but something just feels wrong about it, i'm not sure, but i probably need to make it even lower and add some more things on the sides so that it doesn't look like just a loft.
+
+# session 5:
+i felt like the thing that made it feel wrong was the height, so i lowered the carrier deck closer to the ground and lowered the different loft planes. 
+![image](https://github.com/user-attachments/assets/18bcd3d9-8e61-4568-b6c6-2e5aa1660ab9)
+i added some little platforms at the back, although they look a bit out of place so i moved them up. i didn't know how to connect the platforms to the loft, i attempted to use a loft to connect it, but there were some gaps
+![image](https://github.com/user-attachments/assets/65769130-c9e6-498e-8835-b0a76a8132d2)
+i attempted to use another loft to fix it
+![image](https://github.com/user-attachments/assets/35c78977-9293-486a-a443-9aecdab75aac)
+i mean, i am already using several lofts so... other than this, i wasn't sure on how to fix it. i thought of trying to do this loft (the loft for the platforms) and then the main loft. i attempted to move the loft features on the history marker, but it didn't work, so i had to redo the loft. 
+![image](https://github.com/user-attachments/assets/720f87ea-d995-414d-9b2c-f3bbc24a34c1)
+it didn't work and messed up the 2nd loft that i was trying to do. so, i thought that if i do the loft normally then get the cross-section of the loft and just extruded it, it could maybe work (maybe).
+![image](https://github.com/user-attachments/assets/7929a566-cd86-4cd6-8088-db8f314378b5)
+i sketched out the cross section of the loft and attempted it again.
+![image](https://github.com/user-attachments/assets/946aaa74-64d7-42c5-97dd-7c36136f0ecc)
+it didn't really work. i then quickly realised that i sketched the wrong cross-section and would've resulted in the same thing as the loft. so, i had to change the sketch
+![image](https://github.com/user-attachments/assets/783058ca-ea40-4615-831f-fd5e0ecb239c)
+it works, but the platform still sticks out like a sore thumb, i attempted to use a loft on the entire side of the hull and the platform, which didn't work, then i tried to use loft on the gap between the platform and the hull, which worked, even though it failed before. it kinda confused me on why it worked this time.
+![image](https://github.com/user-attachments/assets/93cdc27e-23d5-4838-8ec8-3c66abca9ded)
+this time when i did it, i couldn't do the loft, i guess because the extrude filled up the hole, so i had to alter the sketch to add in an extra area to extrude.
+![image](https://github.com/user-attachments/assets/4a86e2c1-47f8-4800-aa73-c7e2c3dbed61)
+i don't really like how it looks, so i thought of maybe using the extrude and cut operation, and it worked, i like it now.
+whilst i was getting a screenshot of it to put here, i noticed something.
+![image](https://github.com/user-attachments/assets/c0d7e342-8dc4-4a8d-9ebf-ddc470908765)
+oh my god. IT'S SO SMALL YET IT ANNOYS ME SO MUCH, HOW CAN THIS HAPPPPENENNNNFJLKJFLK;ASDJFS;KALJFSA;LKFDJAFDLK;SJFA;FDJKASDJF;ALSDFJAS;LKFJASLD;F
+![image](https://github.com/user-attachments/assets/666cc967-d637-4591-b812-41fbbd7da208)
+well i attempted to use loft to fix it, it didn't work. now it's even smaller and makes me go insane. i attempted to use extrude which didn't work either. then i realised that the problem was most likely the extrude and cut operation cutting too deep into the hull. 
+![image](https://github.com/user-attachments/assets/966c832a-1203-4c45-a95a-6433426574a4)
+it's gone. yiiiiiipppppppppeeeeeeee !!!
+**session end**
