@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/aafa2f13-3995-4598-95a8-e3c47ed472c6)# random-models
+# random-models
 # session 1:
 so i just found out that by putting a hashtag in front of some text, it makes it larger and bold. in this repositry i kinda wanted to make some small models of stuff that you can put on your desk for fun. or maybe paper weights uh ya.
 i also did this in fusion 360 because i heard that fusion 360 is used by a lot of people and is popular, because this is my first time going into fusion 360, i'll leave my view on fusion 360 and see if i like it 
@@ -197,3 +197,24 @@ well i attempted to use loft to fix it, it didn't work. now it's even smaller an
 ![image](https://github.com/user-attachments/assets/966c832a-1203-4c45-a95a-6433426574a4)
 it's gone. yiiiiiipppppppppeeeeeeee !!!
 **session end**
+
+# session 6:
+so one "little" thing i noticed after checking some reference images, is that the platforms aren't like what my cad is
+![image](https://github.com/user-attachments/assets/41bf0573-687c-499d-b8aa-b1bdcb025b66)
+it's quite different. i also realised that it's fine if it sticks out, since that's what it looks like on the real aircraft carrier. i also have to cut out some parts in the hull and change some things. but first, to make sure i don't mess up again, i had to keep on checking the photos. i actually had to make the platforms thicker
+![image](https://github.com/user-attachments/assets/54267074-5704-465a-8c25-ee91549abdec)
+i cut out a little section by sketching on the carrier deck and using the cut operation to cut the section out, i also had to offset it so that it won't cut out some of the carrier deck. i also wanted to do some cleaning up as well. i couldn't do this on the older sketch though, since i wouldn't be able to reference certain parts/edges of the hull. 
+![image](https://github.com/user-attachments/assets/157d29fd-0dd6-47f9-b9b0-9cea75030996)
+whenever i tried to coincident the point of the line to the edge of the hull, it doesn't work and it puts the line onto the edge. this confuses me. then i realised that the line was actually fine after all, and that i thought that the line was just another edge of the hull. (fun.) after much pain, i was able to complete the sketch. 
+![image](https://github.com/user-attachments/assets/0a93d3e2-3a1a-4965-89f6-8d1a9a70c77a)
+it looks absolutely CLEAN right now, i'm liking it.
+![image](https://github.com/user-attachments/assets/9887f68c-a21e-4157-9e43-cdbaf0433032)
+of course, i had to check if i did it right. i kinda did it right, although it isn't really just a straight line from the hull to the platform, but rather 3 different straight lines. (ok wait nevermind it's 2 straight lines)
+![image](https://github.com/user-attachments/assets/14f2f756-9dc9-428a-bc34-6fd8a324274a)
+i attempted to extrude my sketch, and realised that it didn't create a shape. i didn't know how to fix it because it was fully constrained.  
+![image](https://github.com/user-attachments/assets/6171fd96-3a69-4ed7-a15c-9e7f42515630)
+apparently creating another shape was perfectly fine, but for some reason the first one just doesn't work ???
+![image](https://github.com/user-attachments/assets/d7a530ad-ee8f-4f68-b221-9609f3baca0b)
+OK WOW. WHY . JUST WHY DID IT RANDOMLY WORKKKKKK WHY DID IT EVEN FAIL IN THE FIRST PLACE. it was constrainedddddd.
+![image](https://github.com/user-attachments/assets/ab570849-e5e2-4a2d-87cf-497a9aedb436)
+i managed to finish it.
