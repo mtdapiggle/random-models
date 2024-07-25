@@ -218,3 +218,29 @@ apparently creating another shape was perfectly fine, but for some reason the fi
 OK WOW. WHY . JUST WHY DID IT RANDOMLY WORKKKKKK WHY DID IT EVEN FAIL IN THE FIRST PLACE. it was constrainedddddd.
 ![image](https://github.com/user-attachments/assets/ab570849-e5e2-4a2d-87cf-497a9aedb436)
 i managed to finish it.
+
+# session 7:
+doing this on the right side is going to be hard, considering there is also a CIWS mount and some extra bits that are sticking out. this is going to be extremely fun to cad. (not.)
+![image](https://github.com/user-attachments/assets/709fc7ba-602f-42df-9f2e-4f18da16ea20)
+as you can tell, it sticks out, and not just like a straight rectangle. so, i decided to put that off for now and to work on other things that are on the back of the ship. 
+![image](https://github.com/user-attachments/assets/14199c08-8a1f-4eb0-a19d-8f00ff614893)
+i managed to find this really good image of the back of the ship, and also made me realise that i probably should make the ship shorter (again.)
+![image](https://github.com/user-attachments/assets/3b65bad9-a50a-4edd-9685-bdf4a4161e37)
+ok what the flip, i can't even make it shorter ??
+i eventually realised that i made the extrusion too thin. making it shorter also broke a few things
+![image](https://github.com/user-attachments/assets/94907d47-ddbe-4be1-97e1-57edf155103e)
+why is there a small gap...
+then i realised that the problem was the extrude and cut operation
+![image](https://github.com/user-attachments/assets/f06f342d-1fd6-4009-a4ad-4b27b37d443e)
+i measured and found out that i needed to reduce the rectangle by 1.153 mm.
+![image](https://github.com/user-attachments/assets/bc2ba2ef-7417-41fa-93d8-5e6ad45837a5)
+oh god.
+i decided to just do a bandaid fix of sketching out the profile of the bit that was missing and then extruding it. 
+![image](https://github.com/user-attachments/assets/c929c7b2-b9f9-4287-99d9-c4071d23b1df)
+i had no idea on how to reference the edges or the points, then i realised that i could've just put the sketch on the face that has the problem. i also realised that the areas that i could view the sketch weren't very ideal and it gave me a hard time when trying to fix it. then i realised, by trying to dimension the line to the point creates a point on the sketch plane where i would be able to use coincident.
+![image](https://github.com/user-attachments/assets/487fe843-bffb-4bde-a810-4e0fb9a5dd8c)
+one downside of fusion 360 which isn't really a downside, it's just that i kinda miss it form onshape  is that i can't pick 0 to be a dimension which makes me sad, but it's fine anyways since it can be fixed and other things can be done to mitigate it, like the coincident constraint. but i wasn't able to do the coincident constraint on the point until i used the dimension tool. 
+![image](https://github.com/user-attachments/assets/a8b78e4d-95b2-49cc-8975-759006639323)
+you have got to be kidding me. it's so small, that i'm not bothered to fix it, and hopefully it isn't that noticeable unlike the other problems that i fix.
+![image](https://github.com/user-attachments/assets/088d177c-8ecd-43f7-a9c4-a6e4d2ca7faa)
+using fillets and lines, i managed to create some part of the back of the ship, although i do have to create a platform that juts out from the back and the platform and mount for the CIWS.
