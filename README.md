@@ -244,3 +244,25 @@ one downside of fusion 360 which isn't really a downside, it's just that i kinda
 you have got to be kidding me. it's so small, that i'm not bothered to fix it, and hopefully it isn't that noticeable unlike the other problems that i fix.
 ![image](https://github.com/user-attachments/assets/088d177c-8ecd-43f7-a9c4-a6e4d2ca7faa)
 using fillets and lines, i managed to create some part of the back of the ship, although i do have to create a platform that juts out from the back and the platform and mount for the CIWS.
+
+# session 8:
+i realised that there were some things that were misaligned when looking at the aircraft carrier. 
+![image](https://github.com/user-attachments/assets/9521b31d-28d6-4b38-957f-e5fa3eab0d50)
+i measured the distance between the side of the hanger door and the end of the aircraft carrier. it's 9.663 mm, so i changed the extrude, and there still is an edge line between the two different faces. then i found out that instead of using dimensions, i could use the "To Object" extent type so there wouldn't be an edge line. i also changed the operation to join, so that it would become one body. there wasn't a line anymore which is nice. 
+![image](https://github.com/user-attachments/assets/7bb1c034-0ed7-4768-8b7d-2cbe2f64ae29)
+i attempted to fix the faces for the side as well, although the difference is so minute, i could probably ignore it, but with the line in the cad still visible it kinda annoys me. although, i kinda have to ignore it since i don't think i can fix it, and even when 3d printing it won't even show up as a different edge/face/thing.
+i made the back platform of the ship
+![image](https://github.com/user-attachments/assets/61613a53-d30b-4162-b7b5-d005c228f6a8)
+![image](https://github.com/user-attachments/assets/1580a05a-74d9-4584-bbfc-35812c32904a)
+it was at this point, that i realised that these parts
+![image](https://github.com/user-attachments/assets/acb8632a-9b55-4b02-873b-9009b47fdd1c)
+
+are meant to be really small, and the platforms are meant to be much thicker. this meant that i probably needed to lower the height again, and probably cause some problems to some things. 
+![image](https://github.com/user-attachments/assets/0ac7de5c-f036-4d10-85e2-1d1f007b7328)
+yeah things are going wrong. 
+![image](https://github.com/user-attachments/assets/38664fb0-8fbb-4edd-af87-372e9b8e077e)
+so i tried to adjust the sketch at the back of the ship, and it's not going very well at all. my god.
+![image](https://github.com/user-attachments/assets/f658056c-cc1c-4a66-9b03-edcc5eb68d45)
+yeah it's going really badly now. 
+![image](https://github.com/user-attachments/assets/d05942c4-8f64-442e-a74e-f88f3d545df8)
+ok so i kinda fixed it, but it's not really entirely fixed either.
