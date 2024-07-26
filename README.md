@@ -288,3 +288,13 @@ bro i thought it got fixed. apparently not. i had to change the operation to a j
 i was having a couple of problems with this, mainly that the loft doesn't really look right. 
 ![image](https://github.com/user-attachments/assets/89aafe97-c82b-4473-914b-2ed4a913f90c)
 this part didn't really look right, but the session ended right after i did it.
+
+# session 10: 
+![image](https://github.com/user-attachments/assets/59404a7e-67ed-4d32-ab0a-eab53cafce6e)
+i adjusted the sketch lines and it looks fine now. i got started on the CIWS mount, and maybe making a CIWS? it's a possibility, but i'm not sure how you could 3d print it and get the supports out, because it's going to be tiny, although it would look reallllyyy good with it, so...
+![image](https://github.com/user-attachments/assets/704d1cf1-aadd-4c02-bbda-485c294aacc8)
+i mean it ain't looking bad right now. there are some things that i don't entirely like, but i don't know how else i can do them, so it's probably going to stay like that also, one thing that i will say is that i could potentially do railings, although they would be super small and really annoying to do everywhere. 
+![image](https://github.com/user-attachments/assets/910b678c-fc3d-42ab-9255-5a525959160e)
+i sketched a circle and centred it in the rectangle, and quickly realised that, as i thought before, it was going to be extremely small. like very, extremely small. 0.8 mm is a really small length and would take a 3D printer around like 5 lines to print. (assuming each line is 0.15mm thick) so i probably should put some type of disclaimer to set the size to 0.1mm. i decided to make the CIWS anyways, because i don't think anybody is going to really 3D print this. 
+![image](https://github.com/user-attachments/assets/d7a5cbf3-d728-4d20-aad3-42d2112b1376)
+i managed to get some of the mount down for the CIWS. 
