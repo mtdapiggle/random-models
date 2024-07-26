@@ -298,3 +298,21 @@ i mean it ain't looking bad right now. there are some things that i don't entire
 i sketched a circle and centred it in the rectangle, and quickly realised that, as i thought before, it was going to be extremely small. like very, extremely small. 0.8 mm is a really small length and would take a 3D printer around like 5 lines to print. (assuming each line is 0.15mm thick) so i probably should put some type of disclaimer to set the size to 0.1mm. i decided to make the CIWS anyways, because i don't think anybody is going to really 3D print this. 
 ![image](https://github.com/user-attachments/assets/d7a5cbf3-d728-4d20-aad3-42d2112b1376)
 i managed to get some of the mount down for the CIWS. 
+
+# session 11: 
+i revolved some faces to create some parts of the mount for the CIWS
+![image](https://github.com/user-attachments/assets/41090512-dafa-4260-a085-d5c3f565e389)
+i'm gonna be using this as the reference image for the CIWS. i checked the reference images and realised i didn't need the revolves. 
+![image](https://github.com/user-attachments/assets/c365d56f-d946-4344-83bd-fedffab6579f)
+i created a box and attempted to put some cylinders on it, although i couldn't really reach the face that needed the cylinder. 
+![image](https://github.com/user-attachments/assets/567fcae0-2a8b-4436-bc49-3c9d263ac2a0)
+i realised that the rectangle needed to become a square so i can fit a cylinder on top of it.
+![image](https://github.com/user-attachments/assets/cf238425-3e9b-4682-92a2-48fa45d1b3a8)
+ok so a lot of things broke immediately. 
+![image](https://github.com/user-attachments/assets/b38b1061-d2d2-407e-a93d-d80d93ebcaa8)
+my dimensions are now in the microns... (0.001 mm)
+![image](https://github.com/user-attachments/assets/8e233990-9a10-42a4-84ce-ccc364dfbb6d)
+why. 
+![image](https://github.com/user-attachments/assets/a6093df9-4d78-4785-be12-24abcf596eda)
+the phalnax has been completed (and no i wasn't able to get the fillet at the back of the cylinder done)
+i also forgot about my session being completed for 20 minutes straight
