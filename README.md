@@ -256,7 +256,6 @@ i made the back platform of the ship
 ![image](https://github.com/user-attachments/assets/1580a05a-74d9-4584-bbfc-35812c32904a)
 it was at this point, that i realised that these parts
 ![image](https://github.com/user-attachments/assets/acb8632a-9b55-4b02-873b-9009b47fdd1c)
-
 are meant to be really small, and the platforms are meant to be much thicker. this meant that i probably needed to lower the height again, and probably cause some problems to some things. 
 ![image](https://github.com/user-attachments/assets/0ac7de5c-f036-4d10-85e2-1d1f007b7328)
 yeah things are going wrong. 
@@ -266,3 +265,26 @@ so i tried to adjust the sketch at the back of the ship, and it's not going very
 yeah it's going really badly now. 
 ![image](https://github.com/user-attachments/assets/d05942c4-8f64-442e-a74e-f88f3d545df8)
 ok so i kinda fixed it, but it's not really entirely fixed either.
+
+# session 9: 
+i tried to fix the part that wasn't flush with the other edges, i couldn't use the coincident constraint because the line wouldn't show up for some reason, then i did the thing that i did before, where i used dimension, which created a point on the line and allowed me to make the line. 
+![image](https://github.com/user-attachments/assets/7c3a6307-cea8-4b1a-95d6-b69167eead75)
+what the flip. then i realised that i had put a parallel constraint on the line, because thought that they were going to be parallel, turns out they aren't. the bad part now, is that i can't select the face, so i had to hide the aircraft carrier to click on the face. 
+![image](https://github.com/user-attachments/assets/a112e9a1-f85a-49f7-acf8-cd8095be9db4)
+when i hid the aircraft carrier i realised that there was a separate body to the main aircraft carrier
+![image](https://github.com/user-attachments/assets/33530cd5-4405-4bbc-961b-2e44987ba4ee)
+aw hell nah, luckily it was fixable with a loft. 
+![image](https://github.com/user-attachments/assets/f69b35c0-1a74-45e6-895e-e23679d3a5d8)
+when i went to check on the body that had been created, i realised that it was no longer there, which must've been because i hadn't fixed the faces and the stuff that had gone wrong. 
+![image](https://github.com/user-attachments/assets/c016ef61-ffd9-460e-b074-5dc888861fa3)
+this bit here looked a bit off, so i checked my reference images and realised that the hanger door is flush with the hull,  meaning i had gone to all the effort to fix up some things, when it wasn't even accurate. yippee.
+![image](https://github.com/user-attachments/assets/7b44ad1d-2545-441f-a68e-601999d16d25)
+something might just be a little wrong here. i was able to fix it by adjusting the recatangle's dimensions.
+![image](https://github.com/user-attachments/assets/8a8c86c4-d217-4904-9c76-fc99965942ea)
+ok so i sketched out the CIWS mount and when i exited the sketch, there was a new body. how. 
+![image](https://github.com/user-attachments/assets/a91288fb-a365-4c03-b16d-1a1aa52065ed)
+bro i thought it got fixed. apparently not. i had to change the operation to a join operation instead of new body.
+![image](https://github.com/user-attachments/assets/3ca968b5-1fff-4785-bbd7-badd4b56c2d9)
+i was having a couple of problems with this, mainly that the loft doesn't really look right. 
+![image](https://github.com/user-attachments/assets/89aafe97-c82b-4473-914b-2ed4a913f90c)
+this part didn't really look right, but the session ended right after i did it.
