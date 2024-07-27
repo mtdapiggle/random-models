@@ -316,3 +316,39 @@ why.
 ![image](https://github.com/user-attachments/assets/a6093df9-4d78-4785-be12-24abcf596eda)
 the phalnax has been completed (and no i wasn't able to get the fillet at the back of the cylinder done)
 i also forgot about my session being completed for 20 minutes straight
+
+# session 12: 
+i attempted to make the island of the aircraft carrier 
+i started out by sketching the profile of the island.
+![image](https://github.com/user-attachments/assets/9a3e84d8-70c4-4e7b-ac0a-0d1a346e2d6e)
+i used draft to make the angle. 
+i realised that i had to make the island a bit taller and then use the extrude and cut operation to make a part of the island. 
+![image](https://github.com/user-attachments/assets/09d63736-1832-4012-a352-b7f6ea040c73)
+i also had to make the draft smaller, because it stuck out a bit too much. 
+![image](https://github.com/user-attachments/assets/b4a6e05e-8a96-46b2-9228-ab2fa755bd31)
+i'm going to try and make these windows, i'm not 100% sure on how i'm going to do it, but i feel like i'm going to try and use sweep to make it, although it may not end too well. 
+![image](https://github.com/user-attachments/assets/cd3625ef-de3e-43be-bc3f-961a382d7635)
+i made some rough dimensions on where i kinda want it to go, then i'm going to sketch out the sweep path and see if it works. though, i feel like it's gonna say something along the lines of "sweep geometry intersects with each other" or something like that, but that's kinda the only idea i have to do this. 
+![image](https://github.com/user-attachments/assets/4e3d8d34-42b0-4daa-a83a-72ab14a1c9fd)
+i found this really good image of the island, although there are some things that i'm not entirely sure of. 
+![image](https://github.com/user-attachments/assets/e9744392-2af6-4b4a-a2e6-51ecffa65dee)
+i also had to use this image as well because i couldn't really see the sides from the first image. 
+![image](https://github.com/user-attachments/assets/1ab11abb-798c-4c31-ae95-fd99e5675de9)
+so it's not tooooo bad but there are some things that i don't like, especially that large gap. i also made it as a new body so i could mirror it over and not have to do this again. (although i will have to do this at least 2 more times to get the 3 layers.)
+![image](https://github.com/user-attachments/assets/0a833cf0-8214-4762-a0a7-f00425defa92)
+i prob need to extend it more.
+![image](https://github.com/user-attachments/assets/5f40c979-2b4a-484f-9254-8609abfbaabe)
+i tied to do this so i can make the viewing platform and then use sweep,  but i realised that it'd be too far into the wall, so the platform wouldn't really show. zz
+![image](https://github.com/user-attachments/assets/4c16445b-5233-46ae-b194-bb8688f4c7cd)
+i couldn't really click on the path so i had to hide the windows, and making the windows a new body kinda helped here because it'd only hide the windows and not the entire ship. 
+![image](https://github.com/user-attachments/assets/d9a3e8d8-6077-4570-80f0-09a004ab8084)
+i tried to use sweep but it selected the entire other path and not just the path that i wanted. 
+![image](https://github.com/user-attachments/assets/b3793d28-b839-4a9d-95c9-440998a4a7f4)
+idk why the sweep does this, but it's not what i really wanted. i played around with the settings and found out that taper angle kinda removes it, but makes the end of the platform thicker, so i set the taper
+angle to 0.01
+![image](https://github.com/user-attachments/assets/cde254b8-f6fc-4548-98d8-ac53e5e7008b)
+i kinda like it right now, uhhhh just don't look at the bottom :D (or the top.) i thought that if i sketched a erctangle or something above the windows, i maybeee could make the top (as long as i don't get hit with the "sweep geometry interescts with each other") then i realised, that it'd make it hollow, so i decided to try use extude and the intersect operation.
+![image](https://github.com/user-attachments/assets/fffa9929-4fe2-4f49-a367-34bbd7dfb1fd)
+as i was making the rectangle i noticed this small gap, so i had to change the sweep path again.
+![image](https://github.com/user-attachments/assets/f14f3cce-0fda-4834-bdcd-3f6baac31a3c)
+i realised my critical mistake was that i didn't think properly on how intersect works, must've been the 5 hours of sleep.
