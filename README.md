@@ -367,3 +367,35 @@ i think i didn't select some specific features,  but when i select the face agai
 i tried to make the 2nd layer by copy and pasting the first layer's sweep profile, but things are going really badly now. i have no idea how to fix this, what the flip happened. only after like 10 straight minutes i realised that i could undo this. i spammed ctrl + z a bunch and then copy and pasted the sweep profile again, but it's fine ??? i'm so confused.
 ![image](https://github.com/user-attachments/assets/d2389210-5b11-4eb8-8679-3551d7de8244)
 i attempted to make a sweep path but even though the plane that the sketch was on was at the same height as the bottom of the sweep profile, i couldn't do things with it.
+
+# session 14:
+i remembered that i could dimension something to the sweep profile so it'd show up as something that i can use constraints on, so i did it.
+![image](https://github.com/user-attachments/assets/d6aef58d-bd0f-4851-8fda-f3cd1f14313e)
+i made the sweep path and then did the same things that i did before to fill in the massive hole in the middle.
+![image](https://github.com/user-attachments/assets/be2a8984-df7d-47dc-a7a9-4dad7dd90054)
+something is ever so slightly wrong, i made the draft too tall.
+![image](https://github.com/user-attachments/assets/5bf7db29-4bc0-4f62-a184-902de2bad343)
+good enough
+whilst i was checking the reference images to see where exactly the 3rd layer is, i realised that i didn't need to mirror the first layer across the plane, so that wasn't worth it. also my parents are arguing about food D:
+![image](https://github.com/user-attachments/assets/d6300883-5531-43df-8fa5-78a568e859f0)
+i tried selecting these lines to copy them, but for some reason my cursor wasn't selecting them, i checked in the top right and realised that somehow the selection tool had changed to a paintbrush. so i changed it to a window selection.
+![image](https://github.com/user-attachments/assets/59b40806-113e-40ff-84dc-3047220f9974)
+i used the coincident constraint to put the sweep profile onto the edge of the draft. 
+whilst i was checking the references, i realised that the 3rd layer looks to be directly on top of the 2nd layer, and not slightly in front.
+i adjusted it and made the sweep path. 
+![image](https://github.com/user-attachments/assets/0c27c6c6-5a53-44c5-b339-71a6bedc53eb)
+i did the offset in advance and was about to mirror it all onto the other side of the island. (yes this layer does go onto the other side.) until i realised i forgot to put the rectangle which turns it into a shape so i can plug the hollow areas after doing the sweep. 
+![image](https://github.com/user-attachments/assets/f762126e-d584-4301-ae5f-49ac2d0cfecf)
+i tried to do the sweep but i realised that i should've done the offset after, because now it thinks that the entire thing is a sweep path because i connected the offset to the normal sweep path.
+![image](https://github.com/user-attachments/assets/a747704c-1454-4778-8500-aff8ec217a8a)
+honestly that's kinda fair, (i attempted to instead use sweep so i could save some time, i didn't save any time.)
+i did use sweep a bit to do it, but i made the amount that i sweeped less, so i could use less lofts. 
+![image](https://github.com/user-attachments/assets/70f431fa-0434-49b3-8fed-e2aa78ce894a)
+don't mind all the red
+![image](https://github.com/user-attachments/assets/bbc3012e-4a86-42a1-97bb-1f5bea840930)
+and then another loft
+![image](https://github.com/user-attachments/assets/88449b0a-eb31-4553-953d-d7b3a7e8312a)
+now i just had to do this on the other side.
+![image](https://github.com/user-attachments/assets/007ec0a6-b0ac-4d9f-8442-ca7a44663e7f)
+yippppppeeeeeee
+as i was looking at my reference images, i realised that i didn't extend the platform far enough, although i wasn't able to finish it before the session ended.
