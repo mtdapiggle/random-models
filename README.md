@@ -352,3 +352,18 @@ i kinda like it right now, uhhhh just don't look at the bottom :D (or the top.) 
 as i was making the rectangle i noticed this small gap, so i had to change the sweep path again.
 ![image](https://github.com/user-attachments/assets/f14f3cce-0fda-4834-bdcd-3f6baac31a3c)
 i realised my critical mistake was that i didn't think properly on how intersect works, must've been the 5 hours of sleep.
+
+# session 13:
+i realised something that i probably should've realised earlier, but i could've just extruded the sweep path (the area that the sweep path contains) and then just add a bit on each side. (i probably didn't explain it very well, i'll show some screenshots.)
+![image](https://github.com/user-attachments/assets/e8f0a1b2-6207-4282-b606-91e470edeff5)
+i used the offset tool in the sketch so i could also fill the area at the bottom, i tried to extrude it and it didn't work, then i realised that i needed to close the ends of the offset so that it would be a shape/profile that i can extrude.
+![image](https://github.com/user-attachments/assets/0ee2c8be-8ca3-4e54-8ec7-6864fbbe419c)
+the bottom was fully sealed, and now i just needed to use loft on the top areas to finish it.
+![image](https://github.com/user-attachments/assets/f07f647d-d645-4f82-a6d4-1c09ac21a8d1)
+epic. now i just had to mirror it across a plane, but i realised that it had merged with the main body of the ship. so i looked around in the mirror menu thingy and realised that you could mirror features, so i used that to mirror it over.
+![image](https://github.com/user-attachments/assets/71ecc2f1-64c1-4998-a036-a2fc38748cf9)
+i think i didn't select some specific features,  but when i select the face again, it still doesn't work. i just used loft to fix it.
+![image](https://github.com/user-attachments/assets/0adbc99b-b402-463a-a282-b994c000bd54)
+i tried to make the 2nd layer by copy and pasting the first layer's sweep profile, but things are going really badly now. i have no idea how to fix this, what the flip happened. only after like 10 straight minutes i realised that i could undo this. i spammed ctrl + z a bunch and then copy and pasted the sweep profile again, but it's fine ??? i'm so confused.
+![image](https://github.com/user-attachments/assets/d2389210-5b11-4eb8-8679-3551d7de8244)
+i attempted to make a sweep path but even though the plane that the sketch was on was at the same height as the bottom of the sweep profile, i couldn't do things with it.
