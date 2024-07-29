@@ -466,3 +466,43 @@ i decided to make the island larger, although i feel like this will break a lot 
 ok well only one thing broke, and it was the sweep path for the 3rd layer.
 ![image](https://github.com/user-attachments/assets/8d30d20e-7ee6-43e1-8183-d3c8d85ff048)
 ok nvm 2 things broke, i looked at the sketch and realised that i had used the dimension tool instead of using the midpoint constraint, which meant that the mirror had shifted. 
+
+# session 18: 
+![image](https://github.com/user-attachments/assets/d9c46b3d-f883-4534-a865-539b6543e1f7)
+why is it cutting into the sweep now and not the main island??? i eventually was able to fix it
+![image](https://github.com/user-attachments/assets/a39fdf7d-1335-4201-8ab9-af5a9685cf55)
+the platform wasn't long enough, yet again. so i had to extend the island, yet again. with the platform being long enough, i started to work on the loft. 
+![image](https://github.com/user-attachments/assets/df20bc23-92bd-4d43-9d82-49a123a269da)
+i decided that 0.5 mm would be long enough. i mirrored the line so that i wouldn't have to create another sketch on the other side. 
+![image](https://github.com/user-attachments/assets/43f6c181-15fd-4ec4-9fd1-d8761cf8f061)
+a problem i had was the purple line, which must've come from me dimensioning the line from the sketch to the platform. although i then realised that fusion 360 doesn't care if it's all on the same face.
+![image](https://github.com/user-attachments/assets/6cac65cf-7009-4fc9-bea5-a84dbc09f2b0)
+the lines that i had used to contain the loft didn't work, i think it's because i may have left one of the points to be not coincident with the edge of the platform. 
+![image](https://github.com/user-attachments/assets/b70eccf6-0a46-49a2-9297-b0266cec47aa)
+they were coincidented, but one point of the line was constrained to a line, not a point, and the other point on the line was constrained to the wrong point. 
+![image](https://github.com/user-attachments/assets/147a1652-8c9b-4821-9102-5f718fe121ab)
+why did it break even more than last time. what happened ???
+![image](https://github.com/user-attachments/assets/054a6c00-783e-4444-98f0-d08fcd9f9add)
+the white point was probably the problem, although i thought that the white point didn't really serve a purpose, but apparently it does. 
+![image](https://github.com/user-attachments/assets/79a5cc25-af17-46fe-8571-48f929107aac)
+hmmm yeah that doesn't look good. i undid the loft, and looked back at my reference images just to double check if i was going in the right direction. (i kinda was, but kinda wasn't), i realised that the loft had some part of it jutting out of the island, and that the loft doesn't go to the areas where the platform turns. 
+![image](https://github.com/user-attachments/assets/4888d0b8-a43e-4ee9-9169-14fd2d5c53cf)
+i changed the bottom sketch first
+![image](https://github.com/user-attachments/assets/5811d877-8c86-492f-ac5d-36c6af102ac5)
+i decided to test this out, although i don't think it'll end very well. 
+![image](https://github.com/user-attachments/assets/8064a28b-81eb-4c35-9376-ae063976ac43)
+well, it didn't really end well, but i think i know how i can fix this up. 
+![image](https://github.com/user-attachments/assets/a4f35e78-cebe-4c94-8949-c452dd5a5f9d)
+hopefully this works
+![image](https://github.com/user-attachments/assets/784c96b5-f8a8-427a-8c44-d049902aced6)
+that looks pretty accurate (it doesn't)
+![image](https://github.com/user-attachments/assets/f65febcd-7811-4415-a70c-8f3b9f25e9b0)
+and apparently if i redo it, it works. this isn't accurate either. i kinda had exhausted all of the options that i could even think of. so i just started trying random things in hope that one of them would work 
+![image](https://github.com/user-attachments/assets/2156368b-9b8a-42e6-bd24-be250013aedd)
+that dimension is so faded, i can barely see it. 
+![image](https://github.com/user-attachments/assets/3d4f1d6c-2dbd-4c97-b4df-913aaaa18489)
+it kinda works... but at the same time... it doesn't really. 
+![image](https://github.com/user-attachments/assets/2e820416-2616-4ec6-8b42-b77feb295ca4)
+i extended the line and now it looks better.
+![image](https://github.com/user-attachments/assets/e3185a5d-c36c-460e-9c13-15b02cfa0d33)
+i think i have to adjust the back of the loft, but othe than that it should be fine, maybe. 
