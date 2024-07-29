@@ -422,3 +422,17 @@ judging by this, i don't think that this will work, but i'll experiment with it,
 one problem that i have is that the draft doesn't affect the island, even though the entire aircraft carrier is one body. so i decided to scrap the idea, because i don't think it can work at all.
 ![image](https://github.com/user-attachments/assets/9e25fe81-223d-43ba-9810-e8e17f00d302)
 i settled on this for now, though i want to revisit it eventually.
+
+# session 16:
+i was thinking over the end of the island for a bit, then i realised that i could possibly use loft to solve my problems, but i would have to work on the 4th layer before being able to do that, since the 4th layer has a platform going over the end of the island. 
+![image](https://github.com/user-attachments/assets/bed120f7-a999-41a4-902c-4f872075e02e)
+i had to change the dimensions of the windows because from the images, i could see that the windows are larger on the 4th layer and some things kinda broke. i managed to fix it by making the top line equal to the bottom line. 
+![image](https://github.com/user-attachments/assets/a23448c5-32ae-47ee-bb98-e0422d6f7722)
+i definitely will have to tweak some things with the dimensions of the island, because it's not tall enough right now. 
+![image](https://github.com/user-attachments/assets/69e799f6-dcb2-4948-8d3a-f68228800e22)
+i made the sweep, and as you can see it's stickout out the top a little bit, i'll have to change it soon. 
+i also realised that the 4th layer's platform is flush with the top of the 3rd layer, so i had to sketch a line on the top of the third layer and then extrude.
+![image](https://github.com/user-attachments/assets/a359603b-ffc9-4cc7-a919-fc20aad4cffe)
+looks a bit odd right now, but it'll eventually be fine (i just realised that i didn't need the line, ggs)
+![image](https://github.com/user-attachments/assets/d913b2c9-7b7d-4718-971f-21983b72bc9f)
+that looks better. 
