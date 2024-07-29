@@ -1,4 +1,4 @@
-# random-models
+![image](https://github.com/user-attachments/assets/f8f1dd7e-ce0a-421f-b3b8-5e14917d6738)# random-models
 # session 1:
 so i just found out that by putting a hashtag in front of some text, it makes it larger and bold. in this repositry i kinda wanted to make some small models of stuff that you can put on your desk for fun. or maybe paper weights uh ya.
 i also did this in fusion 360 because i heard that fusion 360 is used by a lot of people and is popular, because this is my first time going into fusion 360, i'll leave my view on fusion 360 and see if i like it 
@@ -436,3 +436,33 @@ i also realised that the 4th layer's platform is flush with the top of the 3rd l
 looks a bit odd right now, but it'll eventually be fine (i just realised that i didn't need the line, ggs)
 ![image](https://github.com/user-attachments/assets/d913b2c9-7b7d-4718-971f-21983b72bc9f)
 that looks better. 
+
+# session 17:
+honestly, when i started this, i didn't expect it to take this long to make an aircraft carrier, but then again i kinda suck at cadding and i guess this is a way that i can improve it. 
+anyways, the main problem that i'm having with the 4th layer's platform, is that the platform is longer than the other platforms on the other layers, but i didn't really have good pictures on how far it goes, so i just assumed that it went all the way around the island. (although, i did find a reference image later that showed me that it did indeed extend all the way around the island, but also made me realised that some things were wrong.)
+![image](https://github.com/user-attachments/assets/623e25cc-344f-4a7a-ac63-fa9b14fafd95)
+i sketched out the sweep path that the platform will take. 
+![image](https://github.com/user-attachments/assets/80050ef4-29f5-40ba-b4d4-96e02ad1fd8b)
+it kinda looks ok, but it'll look much better after i change a couple of things. (hopefully) but i was't entirely sure how i was going to use loft to connect the faces. 
+i eventually came up with an idea to extrude a chunk of area out of the island, sketch a thin rectangle for one of the loft profiles, and then sketch some areas on the bottom of the platform, when i was sketching on the bottom of the platform, i realised that i would have to  use 2 sketches
+![image](https://github.com/user-attachments/assets/f0e9a506-5161-4902-bc30-491f9e9920c9)
+and this also means that the loft would need 2 profiles. so, i had to extrude the cut first, so that they would become one singular plane/face. 
+![image](https://github.com/user-attachments/assets/def78e50-d3ef-49e1-b57e-8adcaf861f60)
+ok maybe i should've adjusted the extrude and cut opeation itself. 
+![image](https://github.com/user-attachments/assets/4546e1cc-effe-4121-aea1-4f048fd43a6f)
+i adjusted it to here, then realised that i probably should just cut it all the way through. 
+![image](https://github.com/user-attachments/assets/9e7ba2f1-952d-41cf-832f-40676858806b)
+yeah things are kinda off. 
+i realised that i needed to make the cut into the island a bit larger, since there wouldn't be enough space to use a loft and have it angled. 
+![image](https://github.com/user-attachments/assets/0d4ebfbf-9968-4f6d-be82-ffd7c4569460)
+because i constrained the sweep path in a nice way, i don't have to change it now :D. 
+![image](https://github.com/user-attachments/assets/9e7a801b-faf2-495f-a22a-d5b345542ff8)
+still no enough space, at this rate the cut will take up 50% of the island, or well, it'll remove 50%. 
+![image](https://github.com/user-attachments/assets/03840085-4434-4e0e-ae4a-c436f8218508)
+![image](https://github.com/user-attachments/assets/4812d8f3-062c-422f-9285-89c893a57f77)
+now it's starting to remove too much, and the back of the island and the sides are soon going to have no space.
+![image](https://github.com/user-attachments/assets/ee7405da-e587-40bc-8ac6-7cdec9ee44fe)
+i decided to make the island larger, although i feel like this will break a lot of things. 
+ok well only one thing broke, and it was the sweep path for the 3rd layer.
+![image](https://github.com/user-attachments/assets/8d30d20e-7ee6-43e1-8183-d3c8d85ff048)
+ok nvm 2 things broke, i looked at the sketch and realised that i had used the dimension tool instead of using the midpoint constraint, which meant that the mirror had shifted. 
