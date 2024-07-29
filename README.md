@@ -399,3 +399,26 @@ now i just had to do this on the other side.
 ![image](https://github.com/user-attachments/assets/007ec0a6-b0ac-4d9f-8442-ca7a44663e7f)
 yippppppeeeeeee
 as i was looking at my reference images, i realised that i didn't extend the platform far enough, although i wasn't able to finish it before the session ended.
+
+# session 15:
+![image](https://github.com/user-attachments/assets/e989855a-f7b6-4f29-9e4f-49b4268cc636)
+whilst i was planning to extend the platforms for the viewing areas, when checking the reference images i realised that i had to change the end of the island (the part where it start sloping away.) before i could work on extending the platforms, to more of a draft instead of just a straight cut downwards. i wasn't really sure how to make the draft go on an angle, it straight up took me 10 minutes to come up with a solution, which i didn't know if it would work or not. 
+![image](https://github.com/user-attachments/assets/1928a05c-1830-43a8-b1e1-1935934ad555)
+i didn't know how far i wanted to extrude/cut. 
+![image](https://github.com/user-attachments/assets/7c1b17ec-0326-4af6-9aaa-9cbb7599d2fd)
+i created a sketch to check the dimensions, then i remembered i could've just clicked on the planes and points to check the dimensions, but i was too dumb to remember.
+![image](https://github.com/user-attachments/assets/c5298e73-b12f-4703-a06c-6e5887c1fb60)
+this was kinda what i wanted, but instead of it being smaller at the top and larger at the bottom, i wanted it to be the other way around.
+![image](https://github.com/user-attachments/assets/484a6897-d59f-480c-b171-ac6c4b2cd6f5)
+this is what i want to do
+![image](https://github.com/user-attachments/assets/eac923d6-1b16-4c4c-8651-4408ec2bbd1c)
+and this is how it's going. 
+this wasn't really how i wanted it to be done, but i felt like i was heading in the right direction, so i thought that if i extruded a rectangle out and then used the draft, maybe it'll work? hopefully
+![image](https://github.com/user-attachments/assets/5c232c06-3237-4b5e-8f75-da4fb9948b49)
+i wasn't really sure on what dimensions i wanted to put in, so i just threw in some numbers. 
+![image](https://github.com/user-attachments/assets/59f68eef-46cd-46eb-8362-a34fe67cae1a)
+judging by this, i don't think that this will work, but i'll experiment with it, 
+![image](https://github.com/user-attachments/assets/e8da5fa2-7af9-4bb2-9a88-7cb7feb27356)
+one problem that i have is that the draft doesn't affect the island, even though the entire aircraft carrier is one body. so i decided to scrap the idea, because i don't think it can work at all.
+![image](https://github.com/user-attachments/assets/9e25fe81-223d-43ba-9810-e8e17f00d302)
+i settled on this for now, though i want to revisit it eventually.
