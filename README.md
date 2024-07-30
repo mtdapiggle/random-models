@@ -506,3 +506,29 @@ it kinda works... but at the same time... it doesn't really.
 i extended the line and now it looks better.
 ![image](https://github.com/user-attachments/assets/e3185a5d-c36c-460e-9c13-15b02cfa0d33)
 i think i have to adjust the back of the loft, but othe than that it should be fine, maybe. 
+
+# session 19: 
+![image](https://github.com/user-attachments/assets/4db01493-993f-4d55-a012-5487696a5154)
+i extended the sketch for the loft, so it looks better (i think, the reference images i have don't show the back of the island) with that looking ok, i moved onto the platforms again. 
+![image](https://github.com/user-attachments/assets/b0e690c1-073c-47bd-bc99-0492cabddd80)
+this part was kinda bugging me, so i sketched a line and then used loft to make the face look better. 
+![image](https://github.com/user-attachments/assets/b90895ab-01e5-4620-bf5b-29483a45cb7a)
+i checked the reference images to see if everything with the platforms was ok before moving onto extending the sweeps to the loft, and i saw that the platform for layer 4 is thicker than the others
+![image](https://github.com/user-attachments/assets/00fed27a-9e55-4734-aee2-757df1caa1a4)
+it's also thicker on the sides, meaning that i'd have to adjust the sketch for the sweep profile. 
+![image](https://github.com/user-attachments/assets/3ecb61f9-f970-4700-b7e9-3b16a5dce766)
+it still didn't work, i checked the sketch and realised that i had constrained the sketch lines incorrectly.
+![image](https://github.com/user-attachments/assets/c9e99407-84b5-43ce-afd0-e45faa203292)
+it looks fine now, i double checked with the reference images and also realised that the 4th layer's windows were a bit too far back, so i had to adjust the sketch.
+![image](https://github.com/user-attachments/assets/3b5a2950-06bf-496d-997f-2f787f0e65d0)
+i also realised that the 4th layer cuts into the island a bit. i also kinda think that the island might be a bit too thick, but i can't really do anything without it being too thick, so i decided to increase the length of the sweep path.
+![image](https://github.com/user-attachments/assets/142c983c-7299-4e7d-a8f4-11784ff21abd)
+i attempted to extend the front of the sweep path by 0.4mm, but it broke. 
+![image](https://github.com/user-attachments/assets/7b2b6462-1b7d-48a0-9377-a63bd1c2a020)
+ok why is everything  breaking when i try to fix it
+![image](https://github.com/user-attachments/assets/d79622cb-f9bd-41fe-b2b3-52ec4ee48ff8)
+i deleted the giant rectangle 
+![image](https://github.com/user-attachments/assets/6a2722b8-e0b3-413e-9723-3f83fa75a33a)
+whilst i was trying to fix the lofts, i realised that the back wasn't going into the island. i managed to fix it, but there was one loft that i didn't use. i don't remember what it was used for, so i deleted it. 
+![image](https://github.com/user-attachments/assets/4413d69f-7f5a-4078-9354-4e8c54251a3f)
+i also had to use a loft here to fix it up. i eventually just made the platform coincident with the windows on platform 3. 
