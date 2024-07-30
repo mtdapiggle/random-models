@@ -532,3 +532,19 @@ i deleted the giant rectangle
 whilst i was trying to fix the lofts, i realised that the back wasn't going into the island. i managed to fix it, but there was one loft that i didn't use. i don't remember what it was used for, so i deleted it. 
 ![image](https://github.com/user-attachments/assets/4413d69f-7f5a-4078-9354-4e8c54251a3f)
 i also had to use a loft here to fix it up. i eventually just made the platform coincident with the windows on platform 3. 
+
+# session 20: 
+![image](https://github.com/user-attachments/assets/8bdd2dc2-75c3-4ae1-83e8-b263728b538e)
+i extruded out the area that i was going to use to extend the 4th layer's windows and platform. instead of using sweep and making another sweep path, i just decided to use extrude, because i don't want to mess around with the hassle that is sweep. 
+whilst i was checking my reference images to make sure that everything is fine, i realised that i extruded it a bit too far out, and that all of the edges of the platforms here; 
+![image](https://github.com/user-attachments/assets/f951ae53-28b0-4e19-880d-3d56effa18e7)
+are all above each other vertically (yes i know that's kind of obvious, but they're directly vertical to each other (i think))
+![image](https://github.com/user-attachments/assets/e60e13c7-392d-4888-aa5e-35af671c54e0)
+i decided to tweak the dimensions of the sweep and change some things, so that it is flush with the 3rd layer's windows
+![image](https://github.com/user-attachments/assets/e76a580e-9285-4fb2-afd9-d71c12d7897d)
+i also wanted to make this side of the windows longer, since it is kind of short at the moment.
+![image](https://github.com/user-attachments/assets/46207e8a-0eb8-441c-9f8a-93e832e653f3)
+i didn't really know how to do the top part just yet, so i postponed this to work on extending the platforms. 
+i didn't really know how far to extend the platforms without seeing the loft either, because i was working with the original sketch path, which didn't have the loft. 
+![image](https://github.com/user-attachments/assets/33cc82e1-7bce-47c2-a5ef-c77e48d96e6c)
+i eventually finished the platforms (holy heck i didn't realise that i went over the hour by like 35 minutes whaddaflip)
