@@ -548,3 +548,22 @@ i didn't really know how to do the top part just yet, so i postponed this to wor
 i didn't really know how far to extend the platforms without seeing the loft either, because i was working with the original sketch path, which didn't have the loft. 
 ![image](https://github.com/user-attachments/assets/33cc82e1-7bce-47c2-a5ef-c77e48d96e6c)
 i eventually finished the platforms (holy heck i didn't realise that i went over the hour by like 35 minutes whaddaflip)
+
+# session 21:
+i can feel this dragging on, and i want to be able to finish this before 25 hours, looking at the scrapbook channel and just seeing all the other people making these cool things, whilst i'm struggling to make an aircraft carrier is kinda hitting my morale hard.
+fusion asked me if i wanted to update, but i postponed it because i wanted to really optimise my productivity. first thing i realised when i was looking at the reference images, was that the draft extended out too far from the island. 
+![image](https://github.com/user-attachments/assets/678ff785-c3f8-4ecb-a839-694aacf5ae65)
+i reduced the size of the extrude to 0.5 in the sketch, but it didn't really fix it, so i looked at the draft. 
+![image](https://github.com/user-attachments/assets/f64d6c3f-3630-411c-a0a6-b64671768c9a)
+i reduced the angle of the draft from 20 degrees down to 10 degrees, but it made it too flat and the draft looks odd now.
+![image](https://github.com/user-attachments/assets/3517dd1a-60df-4071-b275-17a83339e870)
+i made the sketch size of the extrude to 0.01 mm, and it turned out ok, so i'm bumping it back up to 20 degrees.
+![image](https://github.com/user-attachments/assets/561ed5f7-564c-48de-9ddb-b0edea01f15d)
+why, just why. i decided to change it to 15 degrees, as kind of like a compromise between 10 and 20. 
+![image](https://github.com/user-attachments/assets/e142a352-15a4-4b12-9690-4b977d345976)
+it's just barely, slightly misaligned, but when 3d printed, it won't make too much of a difference. i also realised that the bottom of the 3rd layer's platforms aren't right, so i quickly fixed it up. 
+then i decided that i wanted to do the top of the 4th layer.
+![image](https://github.com/user-attachments/assets/06af5184-882a-4fb6-b275-f27093e5b4a2)
+i wasn't really sure how the top of the 4th layer looks like, so i just did something that i thought would be the shape. i also used some dimensions that i wasn't entirely sure if it was correct.
+![image](https://github.com/user-attachments/assets/8ea246d8-976c-43cb-82a1-9ad7532847a4)
+i realised that it didn't really work that well. i couldn't really think of a good solution to it. 
