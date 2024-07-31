@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/f8f1dd7e-ce0a-421f-b3b8-5e14917d6738)# random-models
+# random-models
 # session 1:
 so i just found out that by putting a hashtag in front of some text, it makes it larger and bold. in this repositry i kinda wanted to make some small models of stuff that you can put on your desk for fun. or maybe paper weights uh ya.
 i also did this in fusion 360 because i heard that fusion 360 is used by a lot of people and is popular, because this is my first time going into fusion 360, i'll leave my view on fusion 360 and see if i like it 
@@ -567,3 +567,33 @@ then i decided that i wanted to do the top of the 4th layer.
 i wasn't really sure how the top of the 4th layer looks like, so i just did something that i thought would be the shape. i also used some dimensions that i wasn't entirely sure if it was correct.
 ![image](https://github.com/user-attachments/assets/8ea246d8-976c-43cb-82a1-9ad7532847a4)
 i realised that it didn't really work that well. i couldn't really think of a good solution to it. 
+
+# session 22:
+honestly, i don't really want to type about what i'm doing because i just want to lock in, i might take some screenshots of problems that i have, and how i tried to solve them. 
+![image](https://github.com/user-attachments/assets/c3e155cc-ec18-4ae7-bb74-cee4edb00690)
+for the 4th layer top part, i just decided to change the sketch and then spam loft everywhere, it might work. 
+![image](https://github.com/user-attachments/assets/8feb6159-85af-4052-b64a-43a126816aae)
+i can see that the extrude isn't really correct, probably is because i didn't adjust it yet. 
+![image](https://github.com/user-attachments/assets/d67d80d9-d65f-4322-9706-4d7d60e5a6af)
+i tried to adjust the extrude and realised that i didn't close the sketch (the sketch is still a line so i can't extrude it)
+![image](https://github.com/user-attachments/assets/e5223e29-9151-40ad-b1da-ae90e5e06baa)
+i had to add lines on the bottom.
+![image](https://github.com/user-attachments/assets/eba67e0b-8eeb-40e3-a7fd-c8095553cfe1)
+i used a loft to adjust this corner, but i still don't like it, so i decided to adjust the sketch. 
+![image](https://github.com/user-attachments/assets/e7e94ee3-cef2-4856-b23a-a384fbb0bf76)
+ok, cann't believe i forgot it again. 
+![image](https://github.com/user-attachments/assets/4c475df0-01e1-419c-afef-61c153c0536f)
+this is "kinda" scuffed
+![image](https://github.com/user-attachments/assets/5055ddfc-37fb-4ec4-b8d4-7da85c059099)
+ok so it worked, it might've been scuffed but it worked.
+![image](https://github.com/user-attachments/assets/580456a6-242e-44e0-9204-e6fd09b245dd)
+i spoke too soon. i don't know how to fix the sketch without the extrude being funky in some way. i pondered this for like 7 minutes straight, not knowing what to do. 
+![image](https://github.com/user-attachments/assets/c7151183-483d-4bba-b50c-8a0b553cca6f)
+i realised that i could adjust the sweep path, so that it becomes perpendicular/flat, so i don't have to do some crazy things to make it look normal. 
+![image](https://github.com/user-attachments/assets/1520e2ef-2162-49bb-8d89-e8f027f67c25)
+why is this happening. 
+![image](https://github.com/user-attachments/assets/e8883d4b-7317-416c-8f0d-ae28f836d91c)
+btw, i can extend it to any size i want to, i just can't change the dimension itself. 
+i just constrained it using constraints. 
+![image](https://github.com/user-attachments/assets/bd5a72b5-e300-44e0-bbcb-9c66aff88681)
+and it worked, although... i probably have to hide the window in some way. 
