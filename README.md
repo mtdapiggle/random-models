@@ -597,3 +597,36 @@ btw, i can extend it to any size i want to, i just can't change the dimension it
 i just constrained it using constraints. 
 ![image](https://github.com/user-attachments/assets/bd5a72b5-e300-44e0-bbcb-9c66aff88681)
 and it worked, although... i probably have to hide the window in some way. 
+
+# session 23:
+![image](https://github.com/user-attachments/assets/ca0fa01c-7808-4107-a865-8c6663695a4c)
+i decided to work on the thingy on the left (might be radar or something idk)
+![image](https://github.com/user-attachments/assets/66f21b7f-2eda-43cb-9ea9-a32b25493d72)
+i didn't really know how to make the semicircle on the top, then i remembered that the plane offset tool thingy exists. 
+![image](https://github.com/user-attachments/assets/82452dad-c727-413e-89b0-57f8c53ffcdd)
+also this somehow broke. idk what's wrong with it.
+![image](https://github.com/user-attachments/assets/c8475e07-147e-4693-a3b6-804af606b67e)
+not much i can do about that. 
+![image](https://github.com/user-attachments/assets/4aebe075-8327-49cc-b71b-462f9730061b)
+i tried to constrain the center of the circle to the center of the cylinder, but nothing popped up, so i used the same thing that i had done before, by using dimension and then constraining. i then added a line that i could use to revolve around.
+![image](https://github.com/user-attachments/assets/05502ede-1979-4bb3-b2a9-d8ee52c35d12)
+i cheecked the reference image to make sure that i was getting things right. i probably needed to lower the plane and maybe make the cylinder shorter.
+![image](https://github.com/user-attachments/assets/4f5b146b-5abe-42c1-bcb9-f0bbdcd3915c)
+this seems better.
+![image](https://github.com/user-attachments/assets/0077d041-9014-4313-b31f-7fc06fdea79b)
+the one to the left just looks like a sphere.
+![image](https://github.com/user-attachments/assets/5daca8b7-92e9-472e-b48f-8b92007ef4f2)
+cool.
+i can also see from that image, that the loft thingy is on both sides. i also realised that i hadn't found out of the loft jutted out of the back of hte island a bit. 
+
+![image](https://github.com/user-attachments/assets/ce79b06f-727c-4219-91fd-776edb001dd1)
+i managed to find this image, which showed me that it didn't.
+
+![image](https://github.com/user-attachments/assets/afa8dd98-dc46-47f8-81b8-1ef0ad78eba3)
+i now wanted to do this thing. 
+
+![image](https://github.com/user-attachments/assets/589fa5f5-5a4e-4257-9da1-224e19979bc9)
+i mean it kinda works. 
+
+![image](https://github.com/user-attachments/assets/31fc772c-825d-46d1-afd7-2ce94b04d3a7)
+i adjusted the sketch and now it looks  better.
