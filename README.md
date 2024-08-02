@@ -630,3 +630,83 @@ i mean it kinda works.
 
 ![image](https://github.com/user-attachments/assets/31fc772c-825d-46d1-afd7-2ce94b04d3a7)
 i adjusted the sketch and now it looks  better.
+
+# session 24:
+i decided to compress 3 of my hours (equal to 30 minutes of somebody else's hours) into 1 session, so that it doesn't overflow into 25 hours. i also may not include every single thing that i do, since i really want to lock in right now. 
+![image](https://github.com/user-attachments/assets/9e697389-32d4-4fb8-8857-b6c0c7d418cf)
+i made these things on the 4th layer first. 
+![image](https://github.com/user-attachments/assets/343c4bee-8071-4d30-853d-154285423523)
+i tried making the lofts at the end of the island. 
+![image](https://github.com/user-attachments/assets/9695a766-e93a-485e-9703-7a61b7d8f445)
+i don't really like this bit, so i had to change some things with the sketch. 
+![image](https://github.com/user-attachments/assets/2d526c97-01d0-4d2e-8c40-7f264a75eb67)
+i also decided that i wanted to constrain the loft areas
+![image](https://github.com/user-attachments/assets/7fc3e78a-d8fc-4643-ae2c-f65b24c10c1a)
+it isn't really seamless now, but i want it to be symmetrical on both sides. 
+![image](https://github.com/user-attachments/assets/c248dd68-1264-48fb-aef3-15818c25c3be)
+i need the 2 lines marked in red to  be parallel, but i'm not sure how i can do it. 
+![image](https://github.com/user-attachments/assets/2d182f82-cccf-441a-9c4a-2471804b28e0)
+i tried to use the parallel constraint but it looks off. then i realised, that the second line doesn't matter, it's just the first one (the outer one) that does. 
+![image](https://github.com/user-attachments/assets/1c049b63-aacb-440f-bd0c-920293fa36b5)
+i thought that i could simply just extrude and then all of my problems would vanish, but i didn't realise that the loft won't be fixed. 
+![image](https://github.com/user-attachments/assets/d2477755-9f05-4908-9a99-89434cfab208)
+i didn't really know  how to fix this, but then i realised that i could sketch and then just extrude. then i realised that it wasn't that simple. i double checked  my reference images so i can see what it's meant to look like. 
+![image](https://github.com/user-attachments/assets/e9b23d02-a1f1-47bf-b3c6-0c889d5dbee6)
+well ok, looks like that even the height of the loft is wrong. 
+![image](https://github.com/user-attachments/assets/b0cb2984-c3ad-4c74-8dd4-d2fdc40b3b0f)
+i couldn't find what extrude was associated with it, it had 3 lines above extrude 50, but extrude 50 has  like nothing related to it. 
+![image](https://github.com/user-attachments/assets/47fe2158-5115-4872-9857-685e4653e0ad)
+so i had to randomly click stuff in the feature tree/history thingy to find when it was made.
+![image](https://github.com/user-attachments/assets/4dbbe57d-5151-4383-8c98-938b7fcdec61)
+the part in red needs to be flattened out somehow.
+![image](https://github.com/user-attachments/assets/c891d75e-5d01-4eee-a3f3-20b5f8a07ed2)
+this is what it's meant to look like.
+
+so it turns out that i'm really dumb. 
+![image](https://github.com/user-attachments/assets/f0e2b0b1-d816-440b-a15c-3a539648adfa)
+i thought that the area highlighted in red is where the loft had to be flattened to. 
+![image](https://github.com/user-attachments/assets/9a7f6213-584b-45bf-aef8-3cabdf35bfab)
+this is the part which is meant to be flat, it's flush with the edge. i can't believe i'm this oblivious. 
+![image](https://github.com/user-attachments/assets/4934ffb9-0918-42b7-a451-e0f3269126cc)
+oh and some problems appeared.
+![image](https://github.com/user-attachments/assets/61577d86-d638-41fa-9f55-e29a456fbe2a)
+ok so i have no clue how to fix this, if i try to delete the referenced things, some things just disappear. i don't even know what i referenced. so i just drew up an entirely new rectangle. 
+![image](https://github.com/user-attachments/assets/013a1eb4-988a-4897-a38d-fa3145d75e70)
+ahhh right, so things still aren't that simple. 
+![image](https://github.com/user-attachments/assets/26432595-1697-4faa-be40-283ff8f40360)
+i tried selecting the face to use loft, then realising that it isn't an enclosed shape.
+![image](https://github.com/user-attachments/assets/ff10656a-5559-4f17-9581-c045ae523b65)
+yippee. (i realised that it's meant to be flat, why did i think of doing a loft ??? (my sanity is slowly dwindling.))
+i looked at the shape of the loft and realised something. 
+![image](https://github.com/user-attachments/assets/421aada3-cb42-4c3e-93e2-b2336ef0d2e0)
+![image](https://github.com/user-attachments/assets/b319f07f-718b-4eac-aa21-dc21793da266)
+kajsdf;lksafjsa; dj;j a;ja;fdsjk fda kfdaj; dsa;lkj;lkjdsafjupaqtvnyeurinesrmai9 rueiuoemwiagzdum
+i also had to make the thingy flat. 
+![image](https://github.com/user-attachments/assets/244ce2b6-8154-451a-85ad-f6750fa00771)
+yeah things are going great. really great. 
+![image](https://github.com/user-attachments/assets/1d76acaf-3861-404f-b72e-389a92287130)
+i then realised that i  needed to extend the blue line somehow. 
+![image](https://github.com/user-attachments/assets/bb8a8605-79b8-4642-8fa7-228c3dc28dc3)
+hafhioqwjaosdnzvjz so it works now. i also then quickly realised, that if i extended the blue line to the edge, then everything would be fine. i love cad. 
+![image](https://github.com/user-attachments/assets/f7ebefd8-0e77-43fa-a55f-32c11c1433b7)
+ok maybe i wasn't entirely correct. 
+![image](https://github.com/user-attachments/assets/65877b58-af08-4453-ba18-1fd14e345175)
+i extended this line to see if it could fix it. didn't work.   
+![image](https://github.com/user-attachments/assets/db45e4e3-b1c5-473e-be70-b381787c4bd4)
+mmmm yes quite fun.
+![image](https://github.com/user-attachments/assets/7c1880fd-bf47-471c-b143-cba55d765713)
+i reverted some changes and tried to use loft to put them together. it said something about the loft intersecting itself. 
+i didn't want to deal with it right now, so i decided to work on filling the middle in.
+![image](https://github.com/user-attachments/assets/9eacbef8-9d09-4c36-b8e0-41a62bae9058)
+it only took one loft, why can't things be this simple. 
+![image](https://github.com/user-attachments/assets/bde94020-f492-4992-9115-f6832b33d8b9)
+quite scuffed, but i don't really care about it anymore, making an aircraft carrier is burning me out and i feel like i don't wanna cad anymore.
+![image](https://github.com/user-attachments/assets/90541401-1bac-4bf7-918e-1a5f1990e936)
+i then decided to sketch a triangle and then use loft again.
+![image](https://github.com/user-attachments/assets/9fc2c2aa-455d-4034-a4a1-afe857b363c5)
+well it worked. i know that all the proportions are messed up now, but it's not like anybody's going to 3d print this.
+the back also needed to be fixed, so i sketched some lines and hten used loft.
+![image](https://github.com/user-attachments/assets/4a5670b8-6ff3-4d65-9d6d-e3424fe3c003)
+welll that's not where i want it to go.
+![image](https://github.com/user-attachments/assets/0b269fdf-4f00-4f78-870d-c2acba36088a)
+everything looks fine and kinda fixed now. 
