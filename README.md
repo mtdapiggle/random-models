@@ -710,3 +710,42 @@ the back also needed to be fixed, so i sketched some lines and hten used loft.
 welll that's not where i want it to go.
 ![image](https://github.com/user-attachments/assets/0b269fdf-4f00-4f78-870d-c2acba36088a)
 everything looks fine and kinda fixed now. 
+
+# session 25: (part one out of ???)
+i had to cram many more hours into this session, because this is the last one before it becomes 25 hours, which i don't want.
+![image](https://github.com/user-attachments/assets/80b71cce-1013-4ee5-afcf-5c7b95cbe9b1)
+i couldn't really get a loft to work here, so i just randomly clicked edges and prayed it'd work
+![image](https://github.com/user-attachments/assets/40d5ae58-7431-48a8-828a-66075ad248b4)
+WOW OK. (ignore hte self intersection and bad geometry, it's leftovers from previous random clicks)
+![image](https://github.com/user-attachments/assets/b67c484f-7ed0-4ed5-b3a0-060feb7d5ff4)
+i needed to fix this somehow. the lofts weren't really working.
+![image](https://github.com/user-attachments/assets/7b8f715d-5343-436f-b469-b62b0cb6faa0)
+also this broke.
+![image](https://github.com/user-attachments/assets/b9119d55-5ca6-4541-abf8-1b969703cdcd)
+i was so focused on trying to use loft to fix the problem, that i neglected extrude.
+![image](https://github.com/user-attachments/assets/5fd3e52e-087b-4110-925d-7636f88f807d)
+there was a line here, but it was something that i can't fix/not bothered to fix since it won't show up when you 3d print.
+![image](https://github.com/user-attachments/assets/c4edfa5f-9e90-4169-aa59-278bdcec5843)
+ok so i forgot that it was meant to be flat. so i had to delete the loft and sketch an area.
+![image](https://github.com/user-attachments/assets/966d6865-02a0-4bfe-8696-2d3cac4818fc)
+surely nothing goes badly (i can see some weird things behind the cut.)
+![image](https://github.com/user-attachments/assets/d4b1fea6-4d70-4897-b84a-fe78c86c5878)
+there is a tiny line. 
+![image](https://github.com/user-attachments/assets/f63700c3-3fca-498f-a003-651c50bee50a)
+yeah that's kinda scuffed. i would highly prefer that it's symmetrical. 
+![image](https://github.com/user-attachments/assets/3a362fde-fa42-481d-a184-d97d85aaf23a)
+i decided to extend some of the lines.
+![image](https://github.com/user-attachments/assets/64d74d05-c938-4644-8683-8c347bbced15)
+i also had to extend this square. i remember that at some point, i had reduced the size of the square, and now i have to extend it again. fun.
+![image](https://github.com/user-attachments/assets/c39f858e-d7cd-4ec9-b391-0a519b48a658)
+it fixes up the sides, but doesn't fix some other things. i prob need to do some sketches and stuff to get rid of it.
+![image](https://github.com/user-attachments/assets/66c3e870-91cc-41ae-8e9e-d604fef146ae)
+it was just that simple. all i had to do was that. 
+![image](https://github.com/user-attachments/assets/bee65e02-4018-4e48-b3f8-1dc246e1015e)
+there's a random line and some things aren't parallel, but it's good enough to look at.
+![image](https://github.com/user-attachments/assets/7337c0f3-3173-44ab-8fc4-a2e5410fba50)
+ever so slightly off.
+![image](https://github.com/user-attachments/assets/7b3977f3-7573-4249-b920-1f858e57d82f)
+this solution is going to be so scuffed...
+![image](https://github.com/user-attachments/assets/48694e90-d06b-44f8-8cb1-120de9bbc54d)
+i love overcomplicating things.
