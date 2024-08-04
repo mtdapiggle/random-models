@@ -749,3 +749,60 @@ ever so slightly off.
 this solution is going to be so scuffed...
 ![image](https://github.com/user-attachments/assets/48694e90-d06b-44f8-8cb1-120de9bbc54d)
 i love overcomplicating things.
+
+# session 25: (part 2 out of hopefully 2)
+![image](https://github.com/user-attachments/assets/73016bce-0782-4920-8514-b7831e525148)
+so from what i can see, i have to do the 2 circular thingies.
+![image](https://github.com/user-attachments/assets/5474d10c-78c4-4ea1-894c-dfbc473e594c)
+i also did the tall tower. i think that the tower goes slightly inwards, which is why i made a smaller square. i realised that the dome on the top isn't entirely a full semi-circular dome. (i kinda don't knkow how to explain it.) i felt like it was such a tiny difference, that it wouldn't make it that bad, but i decided to change it anyways. i didn't entirely know how i would do it though. 
+i decided to use some revolve stuff and 3 point arc to make the top. 
+![image](https://github.com/user-attachments/assets/a969117b-d84c-419d-978b-aaad3cdcc7b9)
+while i was at it, i realised that i didn't need to use loft, and that i could also revolve the connection part. 
+![image](https://github.com/user-attachments/assets/11490bb1-656a-425c-9768-1e670bcf6ded)
+oh ok.
+![image](https://github.com/user-attachments/assets/c29a7906-5f0a-4a27-8b3d-e15894432293)
+i think i need to change the size of the dome.
+![image](https://github.com/user-attachments/assets/41cd5330-f6bb-4531-a8af-bcc3b7fce6c8)
+the one in the back looks lage to me, but when i change it to a side view...
+![image](https://github.com/user-attachments/assets/f3b82356-4eb4-4a31-838b-de9cdc31895f)
+exactly the same size...
+![image](https://github.com/user-attachments/assets/187d5d0d-1f71-4458-b93f-e32cb1173f92)
+i was planning to add the little things on the platform on the sides of the tower
+![image](https://github.com/user-attachments/assets/941cc804-3d71-4b10-a010-a10251027044)
+(this) but i realised that i'd be too small for the 3d printer.
+![image](https://github.com/user-attachments/assets/df0ab0a4-9444-4f5e-bc24-2480a63689bc)
+i tried to extrude on 2 sides, didn't work. so i decided to use the plane that i had made earlier, and mirror it across that.
+![image](https://github.com/user-attachments/assets/21700720-d7e6-4a44-8d1d-60a7226c9d58)
+ok, not sure if it's just me but i think that it's kinda off, the platform on the left is at a slightly different angle. (they were the same, but i swear that they're different.)
+![image](https://github.com/user-attachments/assets/d3389563-7862-43b4-a2e1-ea5079773a52)
+i felt that the trapezium was a bit too small, although i remembered that it's at an angle. 
+![image](https://github.com/user-attachments/assets/bc609291-4a8a-465e-a6a9-4963a65985d6)
+it looks ok. 
+![image](https://github.com/user-attachments/assets/f14f7995-35fa-4fcb-acf0-f679dbfbf3ad)
+something i just realised, is that this reference image wasn't taken when the Gerald R Ford was completed. 
+![image](https://github.com/user-attachments/assets/c0d38c77-371e-4e34-a082-7e9a6dde7bd0)
+in this image, i can see that there's a sort of middle platform, but in the other one, it isn't there.
+![image](https://github.com/user-attachments/assets/c183151e-5fff-4859-81a6-538003cf010b)
+this is becoming a mess of dimensions.
+![image](https://github.com/user-attachments/assets/1f721f62-ab26-42fb-9141-659f5978d2de)
+i decided to use symmetry constraints to cut down on some of the dimensions.
+![image](https://github.com/user-attachments/assets/9cc505f7-3e90-4f26-b2db-b30576e082ea)
+i'm finding it a bit hard to fit everything here.
+![image](https://github.com/user-attachments/assets/78574884-3d16-45b8-9239-ae94ac4fdc1e)
+as the hour was getting finished up, i hadn't really finished everything, so i decided to cram some more hours in.
+![image](https://github.com/user-attachments/assets/b705aed6-ebd1-43c7-a785-510e5b2e41ad)
+i think that it needs to be at a steeper angle. 
+![image](https://github.com/user-attachments/assets/04b7c5b1-6f7e-4740-832f-88753b542f82)
+but it kinda makes it a bit tall. 
+![image](https://github.com/user-attachments/assets/2834a0d7-7553-4998-b848-7434617bcb83)
+ok that's better.
+![image](https://github.com/user-attachments/assets/825a0d22-760d-4862-b2ba-e4b95777e1e3)
+the pillar looks tiny in the image, but is much larger in my cad. 
+![image](https://github.com/user-attachments/assets/64e47524-d675-4623-9233-f57225142a7c)
+whuh...
+![image](https://github.com/user-attachments/assets/45a5e20b-48eb-4aaa-b0d8-71932b153915)
+wrong profile extruded, yippee.
+![image](https://github.com/user-attachments/assets/00068a34-26ef-4129-99ec-85f869286a9c)
+gahhhhhhhhh, i don't have a fix fo this right now, and it's my bedtime.
+![image](https://github.com/user-attachments/assets/516b6765-cd54-4c2f-9d10-af982260f8a6)
+well this is the final product. 
