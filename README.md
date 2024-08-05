@@ -806,3 +806,13 @@ wrong profile extruded, yippee.
 gahhhhhhhhh, i don't have a fix fo this right now, and it's my bedtime.
 ![image](https://github.com/user-attachments/assets/516b6765-cd54-4c2f-9d10-af982260f8a6)
 well this is the final product. 
+
+# random comments
+18 hours after i finished this, i remembered that i didn't put my comments about fusion, so here they are.
+Pros:
+1. not bad to use compared to onshape when you don't have a mouse. (you can left click the cube in the top right in fusion and move it around to change your view, in onshape you can't do that (i found that out when i tried to grab the cube in onshape after finishing this project (muscle memory goes crazy)))
+2. it has like different modes that you can use (like design, manufacturing and i forgot the others (i only used design))
+cons: 
+1. not many keybinds (i need a keybind for everything)
+2. when i sketch a line from another line, it doesn't count the point as coincident. (pain)
+honestly fusion is alright, i just prefer onshape because i can easily see the names of the sketches and stuff, so i don't have to remember which sketch was for which (i probably should've put this in cons) 
