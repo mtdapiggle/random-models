@@ -1,3 +1,12 @@
+
+
+![Screenshot 2024-09-06 223959](https://github.com/user-attachments/assets/4a9cc52f-6558-4451-b045-1d6dc4df9633)
+
+
+Printables link: https://www.printables.com/model/998196-ships
+
+
+
 # random-models
 # session 1:
 so i just found out that by putting a hashtag in front of some text, it makes it larger and bold. in this repositry i kinda wanted to make some small models of stuff that you can put on your desk for fun. or maybe paper weights uh ya.
